@@ -1,0 +1,56 @@
+.card{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/todolistbg.png");
+    height: 100vh;
+    background-size: cover;
+    /* text-align: center; */
+}
+
+*{
+    margin: 0px;
+}
+
+.head{
+    font-family: 'Arial', sans-serif;
+    color: white;
+    text-align: center;
+}
+
+.head h1{
+    padding: 20px;
+    font-size: 45px;
+}
+.head p{
+    font-size: 20px;
+}
+.middle{
+    color: white;
+    margin-top: 80px;
+    font-family: 'Arial', sans-serif;
+}
+.middle p{
+    font-size: 20px;
+    margin-top: 20px;
+}
+.middle h3{
+    font-size: 20px;
+}
+
+.button{
+    text-align: center;
+    margin-top: 60px;
+}
+
+.button_mod{
+    color: white;
+    background-color: orange;
+    height: 50px;
+    width: 95px;
+    border-width: 3px;
+    font-size: 20px;
+}
+
+.button p{
+    color: white;
+    text-decoration: underline;
+    padding: 10px;
+}
